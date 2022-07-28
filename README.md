@@ -12,9 +12,6 @@ $ cd arakkhastar
 Create a virtual environment to install dependencies in and activate it:
 
 ```sh
-$ virtualenv2 --no-site-packages env
-$ source env/bin/activate
-
 $ env\Scripts\active
 ```
 
@@ -31,10 +28,6 @@ Once `pip` has finished downloading the dependencies:
 (env)$ cd project
 (env)$ python manage.py runserver
 ```
-And navigate to `http://127.0.0.1:8000/gocardless/`.
-
-In order to test the purchase flows, fill in the account details in
-`project/gc_app/views.py` to match your **SANDBOX** developer credentials.
+And navigate to `http://127.0.0.1:8000/`.
 
 
-webhook. Click that, select `Bill` as the object type and click `Fire webhook`.
