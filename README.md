@@ -1,4 +1,4 @@
-# GoCardless sample application
+# Arakkha Star Website
 
 ## Setup
 
