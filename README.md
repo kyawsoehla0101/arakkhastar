@@ -5,8 +5,8 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/gocardless/sample-django-app.git
-$ cd sample-django-app
+$ git clone https://github.com/kyawsoehla0101/arakkhastar.git
+$ cd arakkhastar
 ```
 
 Create a virtual environment to install dependencies in and activate it:
@@ -14,6 +14,8 @@ Create a virtual environment to install dependencies in and activate it:
 ```sh
 $ virtualenv2 --no-site-packages env
 $ source env/bin/activate
+
+$ env\Scripts\active
 ```
 
 Then install the dependencies:
