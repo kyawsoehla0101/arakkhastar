@@ -32,7 +32,7 @@ readtime==2.0.0
 six==1.16.0
 sortedcontainers==2.4.0
 soupsieve==2.3.2.post1
-sqlparse==0.4.2
+sqlparse==0.4.4
 tzdata==2021.5
 virtualenv==20.14.1
 webencodings==0.5.1
